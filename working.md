@@ -29,7 +29,7 @@ If you don't know what you are looking for? Not a lot. If you know what you are 
 
 # Tourist attractions
 
-Dark.fail
+Dark.fail  
 https://dark.fail/  
 darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion  
   
@@ -51,7 +51,15 @@ Despite the potential for a lot of very nasty discussion to go on with the minim
 
 Dread is also the #1 place on the dark web to advertise your criminal goods and services, however we will get back to that.  
 
+  
 Distributed Denial of Secrets  
 https://ddosecrets.com/wiki/Distributed_Denial_of_Secrets   
 http://ddosxlvzzow7scc7egy75gpke54hgbg2frahxzaw6qq5osnzm7wistid.onion/wiki/Distributed_Denial_of_Secrets  
-  
+
+Distributed Denial of Secrets is a website known for hosting internet leaks. These range from drug busts to the no fly list. While the site itself is legal for the most part, it does have a TOR site for the paranoid.  
+
+The Official CIA Website (no I am not joking)
+https://cia.gov/
+http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion/ 
+
+The CIA hosts a TOR site for cia.gov. The primary use case for this is as an anonymous reporting.   
