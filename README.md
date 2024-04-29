@@ -14,7 +14,7 @@ Credits:
 - [x] How to get on TOR/The Dark Web
 - [x] What to expect
 - [x] Tourist attractions
-- [ ] How to find sites 
-- [ ] Economy (lord have mercy)
-- [ ] Criminal uses
+- [ ] How to find sites (waffling)
+- [x] Economy
+- [x] Criminal uses
 - [ ] Non-criminal uses
