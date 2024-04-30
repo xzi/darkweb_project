@@ -35,12 +35,10 @@ darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion
   
 Dark.fail is known as a highly reputable link site for the dark web. It contains links to 34 different sites ranging from mirrors of government websites to Reddit clones to legal XXX material (maybe don't include that part?).   
 
-Dread  
-http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion   
-http://g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion  
+Dread   
 
 Dread is one of the most famous sites on the Dark web. In essence, it is a Reddit clone that can be used for discussion of almost anything. The only things that are not allowed to be discussed are:  
-- **
+- CSAM
 - Pro-terrorism or terrorist propaganda
 - Harmful weapons/weapons of mass destruction
 - Poisons
