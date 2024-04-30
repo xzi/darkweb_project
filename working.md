@@ -58,15 +58,16 @@ http://ddosxlvzzow7scc7egy75gpke54hgbg2frahxzaw6qq5osnzm7wistid.onion/wiki/Distr
 
 Distributed Denial of Secrets is a website known for hosting internet leaks. These range from drug busts to the no fly list. While the site itself is legal for the most part, it does have a TOR site for the paranoid.  
 
-The Official CIA Website (no I am not joking)
-https://cia.gov/
-http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion/ 
+The Official CIA Website (no I am not joking)  
+https://cia.gov/  
+http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion/  
 
 The CIA hosts a TOR site for cia.gov. The primary use case for this is as an anonymous reporting.  
 
 # Economy
 
 Almost all economic transactions that take place on the dark web cannot use real currency. This is due to the obvious security issues that come with using a FIAT payment processor for potentially illegal things when you are trying to remain as anonymous as possible. In current year, the most used form of payment on the Dark Web is a cryptocurrency called Monero. In simple terms, Monero is what most people think Bitcoin is. It is fully anonymous and uses many different security features to ensure that transactions are not tracable.  
+  
 Note that Monero was NOT explicitly made for the purpose of illict transactions. It was made as a privacy tool. However, there is a significant overlap between the privacy community and people who need to stay private for more nefarious reasons.   
 
 # Criminal Uses 
@@ -77,7 +78,7 @@ Before continuing, I must stress that ***No one on our team condones criminal ac
 
 While The Silk Road may have shut down years ago, drug marketplaces are still alive, well, and more secure than ever before. Sites such as Arch*** aim to be a "dark web Amazon" and try to make it as easy as possible to order illicit substances.  
   
-Image here
+![Listing page](assets/archlisting.png)
   
 Most advertising for drug related products happen on the appropriate subdread back on Dread. 
 
