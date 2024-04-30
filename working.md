@@ -49,7 +49,7 @@ Dread is one of the most famous sites on the Dark web. In essence, it is a Reddi
 
 Despite the potential for a lot of very nasty discussion to go on with the minimal moderation stance the staff takes, I saw next to none of what most would call "unacceptable behavior". Most users were very civil and having discussions on topics that interested them or they wanted more info on.  
 
-Dread is also the #1 place on the dark web to advertise your criminal goods and services, however we will get back to that.  
+Dread is also the #1 place on the dark web to advertise your criminal goods and services (Note that nothing is permitted to be sold directly on Dread), however we will get back to that.  
 
   
 Distributed Denial of Secrets  
@@ -75,4 +75,12 @@ If you are trying to break the law with drugs, fraud, or other assorted means, t
   
 Before continuing, I must stress that ***No one on our team condones criminal activity of any kind.*** Please consult your local laws before doing something you could regret.
 
-While The Silk Road may have shut down years ago, drug marketplaces are still alive, well, and more secure than ever before. Sites such as Arch*** aim to be a "dark web Amazon".  
+While The Silk Road may have shut down years ago, drug marketplaces are still alive, well, and more secure than ever before. Sites such as Arch*** aim to be a "dark web Amazon" and try to make it as easy as possible to order illicit substances.  
+  
+Image here
+  
+Most advertising for drug related products happen on the appropriate subdread back on Dread. 
+
+# Non-criminal uses
+
+Reporting crime, accessing video content you have purchased prior, and evading censorship. 
