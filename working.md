@@ -36,6 +36,7 @@ darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion
 Dark.fail is known as a highly reputable link site for the dark web. It contains links to 34 different sites ranging from mirrors of government websites to Reddit clones to legal XXX material (maybe don't include that part?).   
 
 Dread   
+(Links expunged at request)
 
 Dread is one of the most famous sites on the Dark web. In essence, it is a Reddit clone that can be used for discussion of almost anything. The only things that are not allowed to be discussed are:  
 - CSAM
@@ -55,7 +56,8 @@ https://ddosecrets.com/wiki/Distributed_Denial_of_Secrets
 http://ddosxlvzzow7scc7egy75gpke54hgbg2frahxzaw6qq5osnzm7wistid.onion/wiki/Distributed_Denial_of_Secrets  
 
 Distributed Denial of Secrets is a website known for hosting internet leaks. These range from drug busts to the no fly list. While the site itself is legal for the most part, it does have a TOR site for the paranoid.  
-
+  
+  
 The Official CIA Website (no I am not joking)  
 https://cia.gov/  
 http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion/  
