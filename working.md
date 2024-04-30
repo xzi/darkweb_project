@@ -74,13 +74,19 @@ Note that Monero was NOT explicitly made for the purpose of illict transactions.
 
 If you are trying to break the law with drugs, fraud, or other assorted means, the Dark Web is probably the most secure place to be doing so.  
   
-Before continuing, I must stress that ***No one on our team condones criminal activity of any kind.*** Please consult your local laws before doing something you could regret.
+Before continuing, I must stress that ***no one on our team condones criminal activity of any kind.*** Please consult your local laws before doing something you could regret.
 
-While The Silk Road may have shut down years ago, drug marketplaces are still alive, well, and more secure than ever before. Sites such as Arch*** aim to be a "dark web Amazon" and try to make it as easy as possible to order illicit substances.  
+While The Silk Road may have shut down years ago, drug marketplaces are still alive, well, and more secure than ever before. Sites such as A*** aim to be a "dark web Amazon" and try to make it as easy as possible to order illicit substances.  
   
 ![Listing page](assets/archlisting.png)
   
-Most advertising for drug related products happen on the appropriate subdread back on Dread. 
+Most advertising for drug related products happen on the appropriate subdread back on Dread. Many vendors will post their offerings on Dread to try and garner sales and the good will of the people.
+
+![Subdread](assets/dreadarch.png)
+
+Dread is also where a lot of people will share advice regarding various types of crime. Popular non-drug related crime discussions are hacking, fraud, money laundering, and social engineering.
+
+![Dread Top](assets/dreadtop.png)
 
 # Non-criminal uses
 
