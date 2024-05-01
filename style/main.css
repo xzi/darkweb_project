@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: #000000;
     text-align: center;
     font-family: "Jersey 20", sans-serif;
 }
@@ -16,4 +16,27 @@ p, h1 {
     width: 80%;
     padding: 20px;
     margin: auto; 
+}
+.topnav {
+  background-color: black;
+  overflow: hidden;
+  display: flex;
+  justify-content: space-around;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a:hover {
+  background-color: #0e6b0e;
+  color: black;
+}
+.topnav a.active {
+  background-color: #168716;
+  color: white;
 }
