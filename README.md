@@ -10,13 +10,12 @@ Additionally, ***no one on our team condones breaking the law, drug use, or bad 
 
 Tl;dr Do not take this seriously please don't take us down Github thanks xo
 
-## Todo List
+## Topic Todo List
 - [x] Deep web v.s. Dark web
 - [x] Brief history
 - [x] How to get on TOR/The Dark Web
 - [x] What to expect
 - [x] Tourist attractions
-- [ ] How to find sites (waffling)
 - [x] Economy
 - [x] Criminal uses
 - [X] Non-criminal uses

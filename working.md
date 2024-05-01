@@ -29,13 +29,13 @@ If you don't know what you are looking for? Not a lot. If you know what you are 
 
 # Tourist attractions
 
-Dark.fail  
+## Dark.fail  
 https://dark.fail/  
 darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion  
   
 Dark.fail is known as a highly reputable link site for the dark web. It contains links to 34 different sites ranging from mirrors of government websites to Reddit clones to legal XXX material (maybe don't include that part?).   
 
-Dread   
+## Dread   
 (Links expunged at request)
 
 Dread is one of the most famous sites on the Dark web. In essence, it is a Reddit clone that can be used for discussion of almost anything. The only things that are not allowed to be discussed are:  
@@ -51,26 +51,26 @@ Despite the potential for a lot of very nasty discussion to go on with the minim
 Dread is also the #1 place on the dark web to advertise your criminal goods and services (Note that nothing is permitted to be sold directly on Dread), however we will get back to that.  
 
   
-Distributed Denial of Secrets  
+## Distributed Denial of Secrets  
 https://ddosecrets.com/wiki/Distributed_Denial_of_Secrets   
-http://ddosxlvzzow7scc7egy75gpke54hgbg2frahxzaw6qq5osnzm7wistid.onion/wiki/Distributed_Denial_of_Secrets  
+ddosxlvzzow7scc7egy75gpke54hgbg2frahxzaw6qq5osnzm7wistid.onion/wiki/Distributed_Denial_of_Secrets  
 
 Distributed Denial of Secrets is a website known for hosting internet leaks. These range from drug busts to the no fly list. While the site itself is legal for the most part, it does have a TOR site for the paranoid.  
   
   
-The Official CIA Website (no I am not joking)  
+## The Official CIA Website (no I am not joking)  
 https://cia.gov/  
-http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion/  
+ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion/  
 
 The CIA hosts a TOR site for cia.gov. The primary use case for this is as an anonymous reporting.  
 
-# Economy
+# Economy (What to Expect)
 
 Almost all economic transactions that take place on the dark web cannot use real currency. This is due to the obvious security issues that come with using a FIAT payment processor for potentially illegal things when you are trying to remain as anonymous as possible. In current year, the most used form of payment on the Dark Web is a cryptocurrency called Monero. In simple terms, Monero is what most people think Bitcoin is. It is fully anonymous and uses many different security features to ensure that transactions are not tracable.  
   
 Note that Monero was NOT explicitly made for the purpose of illict transactions. It was made as a privacy tool. However, there is a significant overlap between the privacy community and people who need to stay private for more nefarious reasons.   
 
-# Criminal Uses 
+# Criminal Uses (What to expect)
 
 If you are trying to break the law with drugs, fraud, or other assorted means, the Dark Web is probably the most secure place to be doing so.  
   
