@@ -40,3 +40,17 @@ p, h1 {
   background-color: #168716;
   color: white;
 }
+
+.credit-title {
+    font-size: 20px;
+    color: #0e6b0e;
+    text-align: center;
+}
+
+.credit-box {
+    width: 80%;
+    padding: 20px;
+    margin: auto; 
+    color: #0e6b0e;
+    text-align: center;
+}
