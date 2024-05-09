@@ -4,7 +4,7 @@
 [Powered by Vercel](https://darkweb-project.vercel.app/)
 
 ## Disclaimer
-This is a school project made for fun by a group of friends. This is not a serious guide to the dark web and should not be treated as such. If you are interested in actual proper resources on the topic, I recommend checking on Dread and the side of the internet itself. Books are never a replacement for experience.  
+This is a school project made for fun by a group of friends. This is not a serious guide to the dark web and should not be treated as such. If you are interested in actual proper resources on the topic, download TOR and find out for yourself. Books are never a replacement for experience.  
 
 Additionally, ***no one on our team condones breaking the law, drug use, or bad things in general***. We simply believe that knowledge is power and in the free exchange of information.  
 
